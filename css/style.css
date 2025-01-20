@@ -64,3 +64,9 @@ img {
 .btn-group button:hover {
   background-color: #3e8e41;
 }
+
+#css-container-quiz {
+  border: 10px solid #4472c4;
+  background-color: #fffeeb;
+  width: 25%;
+}
